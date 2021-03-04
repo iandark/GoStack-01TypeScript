@@ -10,7 +10,7 @@
     *   Tipagem de funções
 
 ## Script disponível
-### `yarn start`
+### `npm start`
 Transpilação e execução em http://localhost:3333
 ```bash
 $ yarn start
