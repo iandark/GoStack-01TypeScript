@@ -13,5 +13,5 @@
 ### `npm start`
 Transpilação e execução em http://localhost:3333
 ```bash
-$ yarn start
+$ npm start
 ```
