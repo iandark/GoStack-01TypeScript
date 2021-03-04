@@ -7,4 +7,6 @@ var express_1 = __importDefault(require("express"));
 var routes_1 = require("./routes");
 var app = express_1.default();
 app.get("/", routes_1.helloWorld);
-app.listen(3333);
+app.listen(3333, function () {
+    console.log('🔥 Back-end started on port 3333!');
+});
